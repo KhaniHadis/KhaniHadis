@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,45:312E81,75:7C3AED,100:06B6D4&text=Hadis%20Khani&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=60&descSize=18" width="100%"/>
+<<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hadis%20Khani&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+</div>
 
 <br>
 
