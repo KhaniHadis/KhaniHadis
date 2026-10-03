@@ -1,182 +1,69 @@
+<!-- HEADER -->
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hadis%20Khani&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&color=0:111827,35:4C1D95,65:C026D3,100:EC4899"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Hadis%20Khani&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&color=0:7C3AED,50:C026D3,100:EC4899" width="100%"/>
 
 <br>
 
-<!-- Animated Introduction -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=600&color=C026D3&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Data+Mining+%7C+ML+%7C+DL+%7C+CV" alt="Typing animation"/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=C026D3&center=true&vCenter=true&width=720&lines=Computer+Engineering+Student+%E2%86%92+Data+Mining+%E2%86%92+Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+Computer+Vision"
-alt="Animated introduction"
-/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/hadis-khani-235319282/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<br>
 
 <a href="mailto:hadiis.khani@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-hadiis.khani%40gmail.com-EC4899?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
+<a href="https://www.linkedin.com/in/hadis-khani-235319282/">
+  <img src="https://img.shields.io/badge/LinkedIn-Hadis%20Khani-8B5CF6?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://github.com/KhaniHadis">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-KhaniHadis-C026D3?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
 
----
+## 🔬 Research Interests
 
-## 👋 About Me
+- Data Mining
+- Machine Learning
+- Deep Learning
+- Computer Vision
 
-I'm a **Computer Engineering student at the University of Tabriz** interested in Artificial Intelligence and Machine Learning.
 
-My main areas of interest are **Data Mining, Machine Learning, Deep Learning, and Computer Vision**. I enjoy learning by building projects, experimenting with models, and exploring research-oriented problems.
+## 🛠️ Technical Skills
 
----
+**Programming:** Python, JavaScript  
+**Machine Learning & Deep Learning:** PyTorch, TensorFlow, Keras, scikit-learn  
+**Data Science:** NumPy, Pandas, Matplotlib  
+**Computer Vision:** OpenCV  
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code, Linux
 
-## 🧠 Tech Stack
-
-<div align="center">
-
-### AI / Machine Learning
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-<br><br>
-
-### Data / Computer Vision
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-
-</div>
-
----
 
 ## 🚀 Featured Project
 
 ### [Heart Disease Prediction with Neural Network](https://github.com/KhaniHadis/heart-disease-neural-network)
 
-A feed-forward neural network implemented **from scratch using NumPy** for binary heart disease classification.
+Feed-forward neural network implemented from scratch using NumPy for binary heart disease classification, including forward propagation, backpropagation, gradient descent, and hyperparameter tuning.
 
-**Implemented**
+**Test Accuracy:** 85.25% &nbsp; | &nbsp; **ROC-AUC:** 92.42%
 
-`Forward Propagation` · `Backpropagation` · `Gradient Descent` · `Hyperparameter Tuning`
 
-<br>
+## 📜 Certifications
 
-| Metric | Result |
-|:---|---:|
-| Accuracy | **85.25%** |
-| ROC-AUC | **92.42%** |
+- OpenCV University’s PyTorch Bootcamp — Oct. 2026
+- DeepLearning.AI’s Convolutional Neural Networks — Aug. 2026
+- DeepLearning.AI’s Structuring Machine Learning Projects — Aug. 2026
+- DeepLearning.AI’s Improving Deep Neural Networks — Jul. 2026
+- DeepLearning.AI’s Neural Networks and Deep Learning — Feb. 2026
 
----
 
-## 🔭 Currently Exploring
-
+<!-- FOOTER -->
 <div align="center">
 
-**Data Mining**  
-Data analysis · Feature learning
-
 <br>
 
-**Deep Learning**  
-Neural networks · Model training
-
-<br>
-
-**Computer Vision**  
-Image processing · Visual learning
-
-<br>
-
-**AI Research**  
-Applied machine learning · Research projects
-
-</div>
-
----
-
-## 🎯 Research Interests
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1800&pause=700&color=8B5CF6&center=true&vCenter=true&width=500&height=150&multiline=true&lines=Data+Mining%0AMachine+Learning%0ADeep+Learning%0AComputer+Vision"
-alt="Research interests"
-/>
-
-</div>
-
----
-
-## 📚 Learning Through Projects
-
-I use hands-on projects to develop practical skills in:
-
-- Machine Learning algorithms
-- Neural network architectures
-- Data preprocessing and analysis
-- Model training and evaluation
-- Computer Vision
-- Research-oriented problem solving
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:hadiis.khani@gmail.com">
-<img src="https://img.shields.io/badge/hadiis.khani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hadis-khani-235319282/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/KhaniHadis">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:EC4899,35:C026D3,65:7C3AED,100:111827"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EC4899,50:C026D3,100:7C3AED&animation=fadeIn" width="100%"/>
 
 </div>
