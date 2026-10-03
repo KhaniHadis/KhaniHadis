@@ -7,9 +7,13 @@ src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header
 width="100%"
 />
 
+<br>
+
+<!-- Animated Introduction -->
+
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=C026D3&center=true&vCenter=true&width=720&lines=Computer+Engineering+Student;Data+Mining+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision"
-alt="Typing animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=C026D3&center=true&vCenter=true&width=720&lines=Computer+Engineering+Student+%E2%86%92+Data+Mining+%E2%86%92+Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+Computer+Vision"
+alt="Animated introduction"
 />
 
 <br><br>
@@ -124,8 +128,10 @@ Applied machine learning · Research projects
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Mining;Machine+Learning;Deep+Learning;Computer+Vision"
-alt="Research interests animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1800&pause=700&color=8B5CF6&center=true&vCenter=true&width=500&height=150&multiline=true&lines=Data+Mining%0AMachine+Learning%0ADeep+Learning%0AComputer+Vision"
+alt="Research interests"
+/>
 
 </div>
 
