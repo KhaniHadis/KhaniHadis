@@ -1,37 +1,14 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Hadis%20Khani&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&color=0:7C3AED,50:C026D3,100:EC4899" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Hadis%20Khani&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&color=0:B8A1D9,50:D8A7C7,100:E8B4C8" width="100%"/>
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=600&color=C026D3&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Data+Mining+%7C+ML+%7C+DL+%7C+CV"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=600&color=C084A8&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Data+Mining+%7C+ML+%7C+DL+%7C+CV"
   alt="Typing animation"
 />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/hadis-khani-235319282/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:hadiis.khani@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://github.com/KhaniHadis">
-  <img
-    src="https://img.shields.io/badge/GitHub-C026D3?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
 
 </div>
 
@@ -54,11 +31,11 @@ Computer Engineering student at the **University of Tabriz** with a strong inter
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-C026D3?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-EC4899?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-8B5CF6?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-C026D3?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-B8A1D9?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-C084A8?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-D8A7C7?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-B8A1D9?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-C084A8?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 </p>
 
@@ -66,10 +43,10 @@ Computer Engineering student at the **University of Tabriz** with a strong inter
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-C026D3?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-EC4899?style=flat-square&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-8B5CF6?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-B8A1D9?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-C084A8?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-D8A7C7?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-B8A1D9?style=flat-square&logo=opencv&logoColor=white"/>
 
 </p>
 
@@ -77,11 +54,11 @@ Computer Engineering student at the **University of Tabriz** with a strong inter
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Git-EC4899?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-C026D3?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-EC4899?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-8B5CF6?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-C084A8?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-B8A1D9?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-D8A7C7?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-C084A8?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-B8A1D9?style=flat-square&logo=googlecolab&logoColor=white"/>
 
 </p>
 
@@ -205,15 +182,15 @@ I use hands-on projects to strengthen my understanding of:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hadis-khani-235319282/">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-B8A1D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hadiis.khani@gmail.com">
-<img src="https://img.shields.io/badge/hadiis.khani%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/hadiis.khani%40gmail.com-D8A7C7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/KhaniHadis">
-<img src="https://img.shields.io/badge/GitHub-C026D3?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-C084A8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -224,7 +201,7 @@ I use hands-on projects to strengthen my understanding of:
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EC4899,50:C026D3,100:7C3AED&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E8B4C8,50:D8A7C7,100:B8A1D9&animation=fadeIn"
   width="100%"
 />
 
