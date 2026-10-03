@@ -167,15 +167,6 @@ I use hands-on projects to strengthen my understanding of:
 
 ---
 
-## 📜 Certifications
-
-- OpenCV University’s PyTorch Bootcamp — Oct. 2026
-- DeepLearning.AI’s Convolutional Neural Networks — Aug. 2026
-- DeepLearning.AI’s Structuring Machine Learning Projects — Aug. 2026
-- DeepLearning.AI’s Improving Deep Neural Networks — Jul. 2026
-- DeepLearning.AI’s Neural Networks and Deep Learning — Feb. 2026
-
----
 
 ## 📫 Connect With Me
 
