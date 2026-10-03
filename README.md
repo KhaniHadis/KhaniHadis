@@ -6,7 +6,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=600&color=C084A8&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Data+Mining+%7C+ML+%7C+DL+%7C+CV"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=600&color=C084A8&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Data+Mining+%7C+ML+%7C+DL+%7C+Computer+Vision"
   alt="Typing animation"
 />
 
